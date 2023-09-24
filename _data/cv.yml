@@ -40,13 +40,7 @@
 
 
 
-- title: "Academic Interests"
-  type: "nested_list"
-  contents:
-    - title: "PDE theory in complex fluids"
-      items:
-        - "Hydrodynamics of nematic liquid crystals"
-        - "Magnetoviscoelastic material"
+
 - title: Academic Interests
   type: nested_list
   contents:
