@@ -3,6 +3,10 @@
 ---
 @charset "utf-8";
 
+.social-icon {
+  font-size: 12px;  /* Adjust this value as needed */
+};
+
 // Dimensions
 $max-content-width: {{ site.max_width }};
 
