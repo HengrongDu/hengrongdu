@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-## Speaker at Conferences and Seminars
+## Upcoming Events
 
 - **Title**: AMS Special Section on Dynamics and Regularity of PDEs  
   **Event**: Joint Mathematics Meeting (upcoming)  
@@ -29,7 +29,47 @@ nav_order: 6
   **Location**: Indiana University Bloomington  
   **Date**: October 2023
 
-... [continue in a similar format for other talks] ...
+  - **Title**: PDE Seminar  
+  **Event**: Old Dominion University  
+  **Location**: Old Dominion University  
+  **Date**: September 2023
+
+## Past Talks
+
+- **Title**: The 13th AIMS Conference  
+  **Event**: University of North Carolina Wilmington  
+  **Location**: University of North Carolina Wilmington  
+  **Date**: June 2023
+
+- **Title**: AMS Spring Central Sectional Meeting  
+  **Event**: University of Cincinnati  
+  **Location**: University of Cincinnati  
+  **Date**: April 2023
+
+- **Title**: Undergraduate Seminar in Mathematics  
+  **Event**: Vanderbilt University  
+  **Location**: Vanderbilt University  
+  **Date**: March 2023
+
+- **Title**: Analysis Seminar  
+  **Event**: Wayne State University  
+  **Location**: Wayne State University  
+  **Date**: March 2023
+
+- **Title**: 3rd Biennial Meeting of SIAM Pacific Northwest Section  
+  **Event**: Washington State University  
+  **Location**: Washington State University  
+  **Date**: May 2022
+
+- **Title**: AMS Spring Central Virtual Sectional Meeting  
+  **Event**: Purdue University  
+  **Location**: Purdue University  
+  **Date**: March 2022
+
+- **Title**: Graduate Online Mini-course  
+  **Event**: Beijing Normal University  
+  **Location**: Beijing Normal University  
+  **Date**: November 2021
 
 - **Title**: PDE Seminar Fall 2021  
   **Event**: Vanderbilt University  
@@ -41,4 +81,28 @@ nav_order: 6
   **Location**: The University of Alabama  
   **Date**: February 2021
 
-... [and so on for all the items in your list] ...
+## Conferences Attended
+
+- **Rivière-Fabes Symposium on Analysis and PDE**  
+  University of Minnesota, Apr. 19-21, 2023
+
+- **Shanks Workshop on Advances in Mathematical and Theoretical Biology**  
+  Vanderbilt University, Mar. 17-19, 2023
+
+- **Workshop on Geometry and Analysis of Fluid Flows**  
+  Stony Brook University, Jan. 16-20, 2023
+
+- **AMS Fall Central Sectional Meeting**  
+  University of Texas at El Paso, Sep. 17-18, 2022
+
+- **Shanks Workshop on Mathematical Aspect of Fluid Dynamics**  
+  Vanderbilt University, Feb. 19-20, 2022
+
+- **KUMUNU-ISU Conference on PDE, Dynamical Systems, and Applications**  
+  University of Nebraska-Lincoln, Oct. 23-24, 2021
+
+- **AMS Fall Western Sectional Meeting (Online)**  
+  Oct. 23-24, 2021
+
+
+
