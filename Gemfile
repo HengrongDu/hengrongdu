@@ -8,7 +8,6 @@ end
 
 group :jekyll_plugins do
 
-end
     gem 'classifier-reborn'
     gem 'jekyll'
     gem 'jekyll-archives'
@@ -30,6 +29,7 @@ end
     gem 'unicode_utils'
     gem 'webrick'
 end
+
 group :other_plugins do
     gem 'feedjira'
     gem 'httparty'
