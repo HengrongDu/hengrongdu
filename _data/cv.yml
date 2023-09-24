@@ -1,4 +1,4 @@
--- title: Postdoc Researcher
+- title: Postdoc Researcher
   type: map
   contents:
     - name: Full Name
@@ -15,47 +15,7 @@
       description:
         - Advisor: Changyou Wang
         - Thesis title: Compactness, existence, and partial regularity in hydrodynamics of liquid crystals
-    - title: M.S. in Computational Mathematics
-      institution: Beijing Normal University
-      year: 2016
-      description:
-        - Advisor: Jiequan Li
-    - title: B.S. in Mathematics and Applied Mathematics
-      institution: South China Normal University
-      year: 2012
+    # ... more entries ...
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Postdoc Scholar, Research 
-      institution: Vanderbilt University
-      year: 2021-2024
-      description:
-        - Mentor: Gieri Simonett
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: PDE theory in complex fluids
-      items: 
-        - Hydrodynamics of nematic liquid crystals
-        - Magnetoviscoelastic material
-    - title: Calculus of variations
-      items: 
-        - Optimal insulation problem
-    - title: Stochastic analysis
-      items: 
-        - Existence and regularity theory for stochastic Ericksen--Leslie system 
-    - title: Geometric analysis
-      items:
-        - Stability of self-similar solutions 
-    - title: Machine learning
-      items: 
-        - Schrödinger bridge problem
-
-- title: Other Interests
-  type: list
-  contents:
-    - Hobbies: Bouldering, reading, etc.
 
 
