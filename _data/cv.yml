@@ -1,4 +1,4 @@
-- title: Postdoc Researcher
+-- title: Postdoc Researcher
   type: map
   contents:
     - name: Full Name
@@ -29,9 +29,9 @@
   contents:
     - title: Postdoc Scholar, Research 
       institution: Vanderbilt University
-      year: "2021-2024"
+      year: 2021-2024
       description:
-        - mentor: Gieri Simonett
+        - Mentor: Gieri Simonett
 
 - title: Academic Interests
   type: nested_list
@@ -45,16 +45,17 @@
         - Optimal insulation problem
     - title: Stochastic analysis
       items: 
-        - Existence and regularity theory for stochastic Ericksen--Lesile system 
+        - Existence and regularity theory for stochastic Ericksen--Leslie system 
     - title: Geometric analysis
       items:
         - Stability of self-similar solutions 
     - title: Machine learning
       items: 
-        - Schodinger bridge problem
+        - Schrödinger bridge problem
 
 - title: Other Interests
   type: list
   contents:
-    - Hobbies: Boulder, reading, etc.
+    - Hobbies: Bouldering, reading, etc.
+
 
