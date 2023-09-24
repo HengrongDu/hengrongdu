@@ -18,7 +18,7 @@
 
 
 
- - title: "Education"
+- title: "Education"
   type: "time_table"
   contents:
     - title: "Ph.D. in Mathematics"
@@ -35,6 +35,7 @@
     - title: "B.S. in Mathematics and Applied Mathematics"
       institution: "[South China Normal University](https://www.scnu.edu.cn/)"
       year: 2012
+
 
 
 
