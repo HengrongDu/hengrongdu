@@ -4,34 +4,40 @@
     - name: "Full Name"
       value: "Hengrong Du"
     - name: "Languages"
-      value: "English, Chinese"
-
-- title: "Education"
-  type: "time_table"
-  contents:
-    - title: "Ph.D. in Mathematics"
-      institution: "Purdue University"
-      year: 2021
-      description:
-        - "Advisor: Changyou Wang"
-        - "Thesis title: Compactness, existence, and partial regularity in hydrodynamics of liquid crystals"
-    - title: "M.S. in Computational Mathematics"
-      institution: "Beijing Normal University"
-      year: 2016
-      description:
-        - "Advisor: Jiequan Li"
-    - title: "B.S. in Mathematics and Applied Mathematics"
-      institution: "South China Normal University"
-      year: 2012
+      value: "English (fluent), Chinese (native)"
 
 - title: "Experience"
   type: "time_table"
   contents:
     - title: "Postdoc Scholar, Research"
-      institution: "Vanderbilt University"
+      institution: "[Vanderbilt University](https://www.vanderbilt.edu/)"
       year: "2021-2024"
       description:
-        - "Mentor: Gieri Simonett"
+        - "Mentor: [Gieri Simonett](https://math.vanderbilt.edu/simoneg/)"
+
+
+
+
+- - title: "Education"
+  type: "time_table"
+  contents:
+    - title: "Ph.D. in Mathematics"
+      institution: "[Purdue University](https://www.purdue.edu/)"
+      year: 2021
+      description:
+        - "Advisor: [Changyou Wang](https://www.math.purdue.edu/~wang2482/)"
+        - "Thesis title: Compactness, existence, and partial regularity in hydrodynamics of liquid crystals"
+    - title: "M.S. in Computational Mathematics"
+      institution: "[Beijing Normal University](https://www.bnu.edu.cn/)"
+      year: 2016
+      description:
+        - "Advisor: [Jiequan Li](https://scholar.google.com/citations?user=xyDDbOAAAAAJ&hl=en)"
+    - title: "B.S. in Mathematics and Applied Mathematics"
+      institution: "[South China Normal University](https://www.scnu.edu.cn/)"
+      year: 2012
+
+
+
 
 - title: "Academic Interests"
   type: "nested_list"
