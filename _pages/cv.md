@@ -1,7 +1,7 @@
 ---
 layout: CV
 permalink: /cv/
-title: cv
+title: CV
 nav: true
 nav_order: 4
 cv_pdf: Hengrong_CV-09-14-2023.pdf

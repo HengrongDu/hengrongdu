@@ -1,6 +1,6 @@
 ---
 layout: about
-title: ABOUT
+title: Short bio
 permalink: /
 # subtitle: <a href='https://as.vanderbilt.edu/math/'>Vanderbilt University</a>. Address. Contacts. Moto. Etc.
 
