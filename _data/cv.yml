@@ -10,10 +10,10 @@
   type: "time_table"
   contents:
     - title: "Postdoc Scholar, Research"
-      institution: "[Vanderbilt University](https://www.vanderbilt.edu/)"
+      institution: "Department of Mathematics, Vanderbilt University"
       year: "2021-2024"
       description:
-        - "Mentor: [Gieri Simonett](https://math.vanderbilt.edu/simoneg/)"
+        - "Mentor: Gieri Simonett"
 
 
 
@@ -22,18 +22,18 @@
   type: "time_table"
   contents:
     - title: "Ph.D. in Mathematics"
-      institution: "[Purdue University](https://www.purdue.edu/)"
+      institution: "Department of Mathematics, Purdue University"
       year: 2021
       description:
-        - "Advisor: [Changyou Wang](https://www.math.purdue.edu/~wang2482/)"
+        - "Advisor: Changyou Wang"
         - "Thesis title: Compactness, existence, and partial regularity in hydrodynamics of liquid crystals"
     - title: "M.S. in Computational Mathematics"
-      institution: "[Beijing Normal University](https://www.bnu.edu.cn/)"
+      institution: "Beijing Normal University"
       year: 2016
       description:
-        - "Advisor: [Jiequan Li](https://scholar.google.com/citations?user=xyDDbOAAAAAJ&hl=en)"
+        - "Advisor: Jiequan Li"
     - title: "B.S. in Mathematics and Applied Mathematics"
-      institution: "[South China Normal University](https://www.scnu.edu.cn/)"
+      institution: "South China Normal University"
       year: 2012
 
 
