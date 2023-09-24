@@ -23,20 +23,8 @@ layout: default
             {% include cv/map.html %}
           {% elsif entry.type == "nested_list" %}
             {% include cv/nested_list.html %}
-         {% elsif entry.type == "time_table" %}
-    <ul>
-    {% for content in entry.contents %}
-        <li>
-            <strong>{{ content.title }}</strong><br>
-            <a href="{{ content.institution.url }}" target="_blank">{{ content.institution.name }}</a><br>
-            Year: {{ content.year }}<br>
-            {% for desc in content.description %}
-                {{ desc }}<br>
-            {% endfor %}
-        </li>
-    {% endfor %}
-    </ul>
-
+          {% elsif entry.type == "time_table" %}
+            {% include cv/time_table.html %}
           {% elsif entry.type == "list_groups" %}
             {% include cv/list_groups.html %}
           {% else %}
