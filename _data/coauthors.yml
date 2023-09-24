@@ -1,34 +1,40 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Wei Deng":
+  - firstname: ["Wei", "W.", "W. D.", "Wei D."]
+    url: [https://www.weideng.org/]
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Qi Feng":
+  - firstname: ["Qi", "Q.", "Q. F.", "Qi F."]
+    url: [https://sites.google.com/site/qifengmath/home]
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Qinfeng Li":
+  - firstname: ["Qinfeng", "Q.", "Q. L.", "Qinfeng L."]
+    url: [http://math.hnu.edu.cn/info/1028/3461.htm]
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Yimei Li":
+  - firstname: ["Yimei", "Y.", "Y. L.", "Yimei L."]
+    url: [https://faculty.bjtu.edu.cn/sci/9542.html]
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Xianpeng Hu":
+  - firstname: ["Xianpeng", "X.", "X. P.", "Xianpeng H."]
+    url: [http://www.cityu.edu.hk/stfprofile/xianpehu.htm]
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Nung Kwan Yip":
+  - firstname: ["Nung Kwan", "N. K.", "Nung K. Y.", "Nung Kwan Y."]
+    url: [https://www.math.purdue.edu/~yipn/]
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Gieri Simonett":
+  - firstname: ["Gieri", "G.", "G. S.", "Gieri S."]
+    url: [https://math.vanderbilt.edu/simoneg/]
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Yuanzhen Shao":
+  - firstname: ["Yuanzhen", "Y.", "Y. S.", "Yuanzhen S."]
+    url: [https://yshao.people.ua.edu/]
 
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Changyou Wang":
+  - firstname: ["Changyou", "C.", "C. W.", "Changyou W."]
+    url: [https://www.math.purdue.edu/~wang2482/]
+
+"Nicole Yang":
+  - firstname: ["Tianjiao", "T.", "T. Y.", "Tianjiao Y."]
+    url: [https://nicoletyang.github.io/]
+
