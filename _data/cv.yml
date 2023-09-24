@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: Hengrong Du
-   # - name: Date of Birth
-   #   value: June 1990
     - name: Languages
       value: English, Chinese
 
@@ -17,16 +15,13 @@
       description:
         - Advisor: Changyou Wang
         - Thesis title: Compactness, existence, and partial regularity in hydrodynamics of liquid crystals
-     #     contents:
-          #  - Sub-description 1.
-         #   - Sub-description 2.
     - title: M.S. in Computational Mathematics
       institution: Beijing Normal University
       year: 2016
       description:
         - Advisor: Jiequan Li
-      title: B.S. in Mathematics and Applied Mathematics
-      instutution: South China Normal University
+    - title: B.S. in Mathematics and Applied Mathematics
+      institution: South China Normal University
       year: 2012
 
 - title: Experience
@@ -34,33 +29,9 @@
   contents:
     - title: Postdoc Scholar, Research 
       institution: Vanderbilt University
-      year: 2021-2024
+      year: "2021-2024"
       description:
         - mentor: Gieri Simonett
-       # - Description 2.
-       # - title: Description 3.
-       #   contents:
-       #     - Sub-description 1.
-        #    - Sub-description 2.
-   
-
-#- title: Open Source Projects
-#  type: time_table
-#  contents:
- #   - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
- #     year: 2015-now
-  #    description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-#- title: Honors and Awards
-#  type: time_table
- # contents:
- #   - year: 1921
-  #    items: 
-  #      - Nobel Prize in Physics 
-  #      - Matteucci Medal
-  #  - year: 2029
-   #   items: 
-   #     - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
@@ -70,20 +41,20 @@
         - Hydrodynamics of nematic liquid crystals
         - Magnetoviscoelastic material
     - title: Calculus of variations
-    items: 
-    - Optimal insulation problem
+      items: 
+        - Optimal insulation problem
     - title: Stochastic analysis
-    items: 
-    - Existence and regularity theory for stochastic Ericksen--Lesile system 
-- title: Geometric analysis
-items:
-- Stability of self-similar solutions 
-- title: Machine learning
-items: 
-- Schodinger bridge problem
-      
+      items: 
+        - Existence and regularity theory for stochastic Ericksen--Lesile system 
+    - title: Geometric analysis
+      items:
+        - Stability of self-similar solutions 
+    - title: Machine learning
+      items: 
+        - Schodinger bridge problem
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Boulder, reading, etc.
+    - Hobbies: Boulder, reading, etc.
+
