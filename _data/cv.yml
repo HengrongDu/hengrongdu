@@ -47,8 +47,25 @@
       items:
         - "Hydrodynamics of nematic liquid crystals"
         - "Magnetoviscoelastic material"
-    # ... continue in this format ...
-
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: PDE theory in complex fluids
+      items: 
+        - Hydrodynamics of nematic liquid crystals
+        - Magnetoviscoelastic material
+    - title: Calculus of variations
+      items: 
+        - Optimal insulation problem
+    - title: Stochastic analysis
+      items: 
+        - Existence and regularity theory for stochastic Ericksen--Lesile system 
+    - title: Geometric analysis
+      items:
+        - Stability of self-similar solutions 
+    - title: Machine learning
+      items: 
+        - Schodinger bridge problem
 - title: "Other Interests"
   type: "list"
   contents:
