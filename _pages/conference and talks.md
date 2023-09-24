@@ -29,7 +29,7 @@ nav_order: 6
   **Location**: Indiana University Bloomington  
   **Date**: October 2023
 
-  - **Title**: PDE Seminar  
+- **Title**: PDE Seminar  
   **Event**: Old Dominion University  
   **Location**: Old Dominion University  
   **Date**: September 2023
