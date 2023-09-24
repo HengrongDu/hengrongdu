@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: hengrong.jpg
+  image: hengrong.JPG
   image_circular: false # crops the image to make it circular
   address: >
     <p>1527 Stevenson Center Ln</p>
