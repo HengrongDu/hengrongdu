@@ -1,21 +1,48 @@
-- title: Postdoc Researcher
-  type: map
+- title: "Postdoc Researcher"
+  type: "map"
   contents:
-    - name: Full Name
-      value: Hengrong Du
-    - name: Languages
-      value: English, Chinese
+    - name: "Full Name"
+      value: "Hengrong Du"
+    - name: "Languages"
+      value: "English, Chinese"
 
-- title: Education
-  type: time_table
+- title: "Education"
+  type: "time_table"
   contents:
-    - title: Ph.D. in Mathematics
-      institution: Purdue University
+    - title: "Ph.D. in Mathematics"
+      institution: "Purdue University"
       year: 2021
       description:
-        - Advisor: Changyou Wang
-        - Thesis title: Compactness, existence, and partial regularity in hydrodynamics of liquid crystals
-    # ... more entries ...
+        - "Advisor: Changyou Wang"
+        - "Thesis title: Compactness, existence, and partial regularity in hydrodynamics of liquid crystals"
+    - title: "M.S. in Computational Mathematics"
+      institution: "Beijing Normal University"
+      year: 2016
+      description:
+        - "Advisor: Jiequan Li"
+    - title: "B.S. in Mathematics and Applied Mathematics"
+      institution: "South China Normal University"
+      year: 2012
 
+- title: "Experience"
+  type: "time_table"
+  contents:
+    - title: "Postdoc Scholar, Research"
+      institution: "Vanderbilt University"
+      year: "2021-2024"
+      description:
+        - "Mentor: Gieri Simonett"
 
+- title: "Academic Interests"
+  type: "nested_list"
+  contents:
+    - title: "PDE theory in complex fluids"
+      items:
+        - "Hydrodynamics of nematic liquid crystals"
+        - "Magnetoviscoelastic material"
+    # ... continue in this format ...
 
+- title: "Other Interests"
+  type: "list"
+  contents:
+    - "Hobbies: Bouldering, reading, etc."
