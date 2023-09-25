@@ -4,7 +4,7 @@ permalink: /Conferences-and-Talks/
 title: Conferences and Talks
 description: Overview of the conferences I've attended and talks I've given.
 nav: true
-nav_order: 6
+nav_order: 2
 ---
 
 ## Upcoming Events
