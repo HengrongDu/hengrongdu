@@ -14,7 +14,7 @@ nav_order: 2
   Date: January 2024  
   Location: TBA
 
-- **[Seminar on Analysis and Stochastic Analysis](http://webhome.auburn.edu/~lzc0090/SASA.html#About%20the%20seminar)**  
+- **[Seminar on Analysis and Stochastic Analysis](http://webhome.auburn.edu/~lzc0090/SASA/20231108_Du.html)**  
   *Auburn University*  
   Date: November 2023  
 
