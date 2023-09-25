@@ -1,4 +1,4 @@
-- title: "Postdoc Researcher"
+- title: "Postdoc in Mathematics"
   type: "map"
   contents:
     - name: "Full Name"
@@ -9,7 +9,7 @@
 - title: "Experience"
   type: "time_table"
   contents:
-    - title: "Postdoc Scholar, Research"
+    - title: "Postdoctoral Scholar, Research"
       institution: "Department of Mathematics, Vanderbilt University"
       year: "2021-2024"
       description:
