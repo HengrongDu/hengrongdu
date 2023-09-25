@@ -1,6 +1,32 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"ARMA":
+  url: https://www.springer.com/journal/205
+  color: "#some_color_code"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"NARWA":
+  url: https://www.journals.elsevier.com/nonlinear-analysis-real-world-applications
+  color: "#some_color_code"
+
+"Math. Z.":
+  url: https://www.springer.com/journal/209
+  color: "#some_color_code"
+
+"JEPE":
+  url: https://www.springer.com/journal/41808
+  color: "#some_color_code"
+
+"Nonlinearity":
+  url: https://iopscience.iop.org/journal/0951-7715
+  color: "#some_color_code"
+
+"Adv. Calc. Var.":
+  url: https://www.degruyter.com/journal/key/ACV/detail
+  color: "#some_color_code"
+
+"DCDS":
+  url: http://aimsciences.org/journal/1078-0947
+  color: "#some_color_code"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#some_color_code"
+
