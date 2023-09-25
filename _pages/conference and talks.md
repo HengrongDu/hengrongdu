@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-## Upcoming Events
+## Upcoming Talks
 
 - **[AMS Special Section on Dynamics and Regularity of PDEs](https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_ams.html)**  
   *Joint Mathematics Meeting*  
