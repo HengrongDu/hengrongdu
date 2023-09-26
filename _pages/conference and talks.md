@@ -26,12 +26,13 @@ nav_order: 2
   *Indiana University Bloomington*  
   Date: October 2023  
 
-- **PDE Seminar**  
-  *Old Dominion University*  
-  Date: September 2023  
+
 
 ## Past Talks
-
+- **Richard F. Barry Jr. Seminar Series Seminar**  
+  *Old Dominion University*  
+  Date: September 2023  
+  
 - **[The 13th AIMS Conference](https://www.aimsconference.org/conferences/2023/)**  
   *University of North Carolina Wilmington*  
   Date: June 2023  
