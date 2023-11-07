@@ -10,13 +10,14 @@ nav_order: 2
 ## Upcoming Talks
 
 - **[2024 SIAM Conference on Material Science](https://www.siam.org/conferences/cm/conference/ms24)**
+  
   *Pittsburgh*
   Date: May 2024
 
 - **[AMS Special Section on Dynamics and Regularity of PDEs](https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_ams.html)**  
   *Joint Mathematics Meeting*  
   Date: January 2024  
-  Location: TBA
+  Location: San Francisco
 
 - **[Seminar on Analysis and Stochastic Analysis](http://webhome.auburn.edu/~lzc0090/SASA/20231108_Du.html)**  
   *Auburn University*  
