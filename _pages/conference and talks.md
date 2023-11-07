@@ -11,7 +11,7 @@ nav_order: 2
 
 - **[2024 SIAM Conference on Material Science](https://www.siam.org/conferences/cm/conference/ms24)**
   *Pittsburgh*
-  Date: May 19-23, 2024
+  Date: May 2024
 
 - **[AMS Special Section on Dynamics and Regularity of PDEs](https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_ams.html)**  
   *Joint Mathematics Meeting*  
