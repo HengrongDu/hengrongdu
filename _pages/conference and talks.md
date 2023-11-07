@@ -10,7 +10,6 @@ nav_order: 2
 ## Upcoming Talks
 
 - **[2024 SIAM Conference on Material Science](https://www.siam.org/conferences/cm/conference/ms24)**
-  
   *Pittsburgh*
   Date: May 2024
 
