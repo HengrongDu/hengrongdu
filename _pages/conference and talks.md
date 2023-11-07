@@ -9,6 +9,10 @@ nav_order: 2
 
 ## Upcoming Talks
 
+- **[2024 SIAM Conference on Material Science](https://www.siam.org/conferences/cm/conference/ms24)**
+  *Pittsburgh*
+  Date: May 19-23, 2024
+
 - **[AMS Special Section on Dynamics and Regularity of PDEs](https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_ams.html)**  
   *Joint Mathematics Meeting*  
   Date: January 2024  
@@ -18,6 +22,8 @@ nav_order: 2
   *Auburn University*  
   Date: November 2023  
 
+## Past Talks
+
 - **[PDE Seminar](https://calendar.utk.edu/event/pde_seminar_109?utm_campaign=widget&utm_medium=widget&utm_source=University+of+Tennessee%2C+Knoxville)**  
   *University of Tennessee, Knoxville*  
   Date: October 2023  
@@ -26,9 +32,6 @@ nav_order: 2
   *Indiana University Bloomington*  
   Date: October 2023  
 
-
-
-## Past Talks
 - **Richard F. Barry Jr. Seminar Series Seminar**  
   *Old Dominion University*  
   Date: September 2023  
