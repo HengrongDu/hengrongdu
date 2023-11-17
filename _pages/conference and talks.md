@@ -18,11 +18,12 @@ nav_order: 2
   Date: January 2024  
   Location: San Francisco
 
+## Past Talks
+
 - **[Seminar on Analysis and Stochastic Analysis](http://webhome.auburn.edu/~lzc0090/SASA/20231108_Du.html)**  
   *Auburn University*  
   Date: November 2023  
 
-## Past Talks
 
 - **[PDE Seminar](https://calendar.utk.edu/event/pde_seminar_109?utm_campaign=widget&utm_medium=widget&utm_source=University+of+Tennessee%2C+Knoxville)**  
   *University of Tennessee, Knoxville*  
