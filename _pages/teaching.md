@@ -10,6 +10,7 @@ nav_order: 3
 ## Instructor at Vanderbilt University
 **Duration**: Fall 2021-Present
 
+- **Spring 2024**: MATH 3100 - Introduction to Analysis
 - **Fall 2023**: MATH 2400 - Differential Equations with Linear Algebra
 - **Spring 2023**: MATH 3100 - Introduction to Analysis
 - **Fall 2022**: MATH 3100 - Introduction to Analysis
