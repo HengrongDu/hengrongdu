@@ -16,12 +16,16 @@ nav_order: 2
   Date: May 2024
   
 - **[2024 Spring Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2313_program_ss10.html)**
+  
   *Florida State University*
-  Date: March 23-24, 2024
 
+  Date: March 2024
+  
 - **[Financial Mathematics Seminars](https://www.math.fsu.edu/finmath/seminars.php)**
+  
   *Florida State University*
-  Date: March 21, 2024
+  
+  Date: March 2024
 
 
 ## Past Talks
