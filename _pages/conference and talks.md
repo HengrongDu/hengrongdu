@@ -26,7 +26,6 @@ nav_order: 2
 - **[AMS Special Section on Dynamics and Regularity of PDEs](https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_ams.html)**  
   *Joint Mathematics Meeting*  
   Date: January 2024  
-  Location: San Francisco
 
 - **[Seminar on Analysis and Stochastic Analysis](http://webhome.auburn.edu/~lzc0090/SASA/20231108_Du.html)**  
   *Auburn University*  
