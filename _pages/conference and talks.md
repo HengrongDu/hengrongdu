@@ -12,6 +12,11 @@ nav_order: 2
 - **[2024 SIAM Conference on Material Science](https://www.siam.org/conferences/cm/conference/ms24)**\
   *Pittsburgh*\
   Date: May 2024
+
+- **[PDEs and Fluid Mechanics and Atmospheric
+Sciences](https://mathanddata.wvu.edu/pdes-conference)**\
+  *West Virginia University*\
+  Date: April 2024
   
 - **[2024 Spring Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2313_program_ss10.html)**\
   *Florida State University*\
