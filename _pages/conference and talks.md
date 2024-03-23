@@ -18,16 +18,16 @@ Sciences](https://mathanddata.wvu.edu/pdes-conference)**\
   *West Virginia University*\
   Date: April 2024
   
+
+## Past Talks
 - **[2024 Spring Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2313_program_ss10.html)**\
   *Florida State University*\
   Date: March 2024
-  
+
 - **[Financial Mathematics Seminars](https://www.math.fsu.edu/finmath/seminars.php)**\
   *Florida State University*\
   Date: March 2024
 
-
-## Past Talks
 - **[AMS Special Section on Dynamics and Regularity of PDEs](https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_ams.html)**  
   *Joint Mathematics Meeting*  
   Date: January 2024  
