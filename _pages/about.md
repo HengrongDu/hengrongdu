@@ -9,7 +9,7 @@ profile:
   image: avatar.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>410P Rowland Hall Ln</p>
+    <p>410P Rowland Hall</p>
     <p>Irvine, CA 91697</p>
 
 news: false  # includes a list of news items
