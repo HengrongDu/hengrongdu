@@ -9,8 +9,8 @@ profile:
   image: avatar.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>1527 Stevenson Center Ln</p>
-    <p>Nashville, TN 37212</p>
+    <p>410P Rowland Hall Ln</p>
+    <p>Irvine, CA 91697</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
